@@ -22,7 +22,8 @@ In fact, most of the stocks he's reviewed so far, have seen a steady decline in 
 
 
 
-![alt text]https://github.com/jackotaj/vba_stock_analysis/blob/main/vba_code_tickerindex.png
+![alt text](https://github.com/jackotaj/vba_stock_analysis/blob/main/vba_code_tickerindex.png)
+
 
 The analysis is well described with screenshots and code (4 pt).
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
