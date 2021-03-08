@@ -13,11 +13,11 @@ After many hours spent and a lot of time invested in additional research, we wer
 
 #### Stock Analysis
 
-Steve felt that the most effective way to analyze the performance of a stock would be to look at it's Total Daily Volume. A stocks Total Daily Volume (TDV) can be an indicator of liquidity and overal investors overall interest in it. High volume stocks generally points to growth so this was the metric we decided to use for our analysis. 
+Steve felt that the most effective way to analyze the performance of a stock would be to look at it's Total Daily Volume as well as it's Starting and Ending Price. A stocks Total Daily Volume (TDV) can be an indicator of liquidity and overal investors overall interest in it. High volume stocks generally points to growth so this was a metric we decided to use for our analysis. Also, a stocks Ending Price for the year determines it's overall ROI so determining it's increase/decrease in a percentage format is important in our analysis.
 
-The stock that Steve's parents were most interested in was DQ. DQ had seen tremendous growth in 2017 with a 199% increase in TDV which led to their overall excitement about it. What had concerned Steve was it's decline in TDV in 2018 where it dropped 62%. He felt that what was once a hot stock a couple years ago may not be as hot and he's advising against investing in DQ. 
+The stock that Steve's parents were most interested in was DQ. DQ had seen tremendous growth in 2017 with a 199% increase in price which led to their overall excitement about it. What had concerned Steve was it's decline in price in 2018 where it dropped 62%. He felt that what was once a hot stock a couple years ago may not be as hot and he's advising against investing in DQ. 
 
-In fact, most of the stocks he's reviewed so far, have seen a steady decline in TDV Year-Over-Year with the exception of two, ENPH and RUN. Both have continued to increase in their Total Daily Volume and are showing signs of continuing that trend going into 2019. Steve plans on reviewing more stocks with the updated version of our workbook but does like what he's seeing sof far with ENPH and RUN. 
+In fact, most of the stocks he's reviewed so far, have seen a steady decline in price Year-Over-Year with the exception of two, ENPH and RUN. Both have continued to increase in their Year-End Price and are showing signs of continuing that trend going into 2019. Steve plans on reviewing more stocks with the updated version of our workbook but does like what he's seeing sof far with ENPH and RUN. 
 
 ##### 2017 Stock Analysis
 
